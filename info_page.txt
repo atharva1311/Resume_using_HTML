@@ -1,0 +1,31 @@
+<html>
+
+<head>
+<title>Information page</title>
+</head>
+<body>
+<marquee direction="right" scrollamount="10" behavior="alternative"><h1>Welcome to Information Page...!</h1></marquee>
+<hr>
+<ol>
+<li>JAVA</li>
+<li>SQL</li>
+<li>HTML</li>
+</ol>
+<hr>
+<h3>JAVA:-</h3>
+<p>Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers <i>write once, run anywhere </i>(WORA),[16] meaning that compiled Java code can run on all platforms that support Java without the need to recompile.[17] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages.
+Java gained popularity shortly after its release, and has been a very popular programming language since then.[18] Java was the third most popular programming language in 2022 according to GitHub.[19] Although still widely popular, there has been a gradual decline in use of<em> Java</em> in recent years with other languages using<b> JVM</b> gaining popularity.
+</p>
+<hr>
+<h3>SQL:-</h3>
+<p>Structured Query Language (SQL) (pronounced S-Q-L; historically "sequel")[4][5] is a domain-specific language used to manage data, especially in a <b> <em>relational database management system </b></em>(RDBMS). It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.
+Introduced in the 1970s, SQL offered two main advantages over older read–write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, i.e., with or without an index.
+</p>
+<hr>
+<h3>HTML:-</h3>
+<p><b>Hypertext Markup Language</b> (HTML) is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance.
+</p>
+<hr>
+</body>
+</html>
